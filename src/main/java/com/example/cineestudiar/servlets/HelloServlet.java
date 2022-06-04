@@ -1,4 +1,4 @@
-package com.example.cineestudiar;
+package com.example.cineestudiar.servlets;
 
 import java.io.*;
 import javax.servlet.http.*;
